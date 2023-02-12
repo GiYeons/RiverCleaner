@@ -18,5 +18,5 @@
 사용한 알고리즘은 prim 알고리즘 및 DFS(깊이우선탐색)입니다.
 
 
-보다 자세한 설명은 하단의 링크에서 확인 가능합니다.
-https://record-everything.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-FIN
+보다 자세한 설명은 [블로그 링크](https://record-everything.tistory.com/entry/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-FIN)에서 확인 가능합니다.
+
